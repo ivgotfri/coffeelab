@@ -1,5 +1,5 @@
-baseURL = "https://example.inforcore.net/"
-title = "블로그 제목 (주제 확정 후 변경)"
+baseURL = "https://coffeelab.inforcore.net/"
+title = "CoffeeLab"
 theme = "echochip-chirpy-hugo"
 locale = "ko-KR"
 enableRobotsTXT = true
@@ -9,9 +9,9 @@ category = "categories"
 tag = "tags"
 
 [params]
-description = "사이트 설명 (주제 확정 후 변경)"
-author = "Editorial Team"
-tagline = "짧은 태그라인 (주제 확정 후 변경)"
+description = "원두 선택부터 추출 도구, 홈카페 셋업까지 — 실사용 후기 중심의 커피 정보"
+author = "CoffeeLab Editorial Team"
+tagline = "집에서 즐기는 카페 한 잔의 기준"
 favicon = "/favicon.ico"
 avatar = "/images/avatar.png"
 image = "/images/site-cover.jpg"
