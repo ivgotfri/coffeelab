@@ -1,0 +1,23 @@
+baseURL = "https://example.inforcore.net/"
+title = "블로그 제목 (주제 확정 후 변경)"
+theme = "echochip-chirpy-hugo"
+locale = "ko-KR"
+enableRobotsTXT = true
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[params]
+description = "사이트 설명 (주제 확정 후 변경)"
+author = "Editorial Team"
+tagline = "짧은 태그라인 (주제 확정 후 변경)"
+favicon = "/favicon.ico"
+avatar = "/images/avatar.png"
+image = "/images/site-cover.jpg"
+
+[params.social]
+email = "libmeltd@gmail.com"
+
+[markup.goldmark.extensions]
+strikethrough = false
