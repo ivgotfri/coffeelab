@@ -4,6 +4,9 @@ date: 2026-07-18
 categories: ["추출 도구"]
 tags: ["프렌치프레스", "분쇄도", "추출", "미분", "홈카페"]
 description: "프렌치프레스로 내린 커피가 입안에 가루가 남고 텁텁하게 느껴진다면, 분쇄도부터 붓는 방식까지 원인을 순서대로 짚어봅니다."
+cover:
+  image: "/images/posts/howto-frenchpress-muddy-coffee.webp"
+  alt: "프렌치프레스 커피가 텁텁하고 지저분할 때 확인할 것들"
 ---
 
 ## 분명 같은 원두인데 왜 이렇게 텁텁할까요
@@ -49,3 +52,5 @@ description: "프렌치프레스로 내린 커피가 입안에 가루가 남고 
 둘째, **잔에 따르는 마지막 처리**입니다. 아무리 잘 해도 바닥의 미분 몇 %는 남습니다. 따를 때 마지막 한 모금은 아예 버린다는 마음으로 컵을 채우면, 가장 지저분한 부분이 입에 안 들어옵니다. 저는 이 방법을 알고 나서 프렌치프레스가 다시 좋아졌어요.
 
 프렌치프레스의 텁텁함은 도구 탓보다 대부분 **분쇄와 마무리 습관** 문제입니다. 굵게 갈고, 살짝만 누르고, 끝나면 바로 옮겨 담기. 이 세 가지만 지켜도 컵 바닥이 훨씬 깨끗해집니다. 오늘 한 잔부터 하나씩 바꿔보세요.
+
+<small>사진: <a href="https://unsplash.com/@lexianderson?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Lexi Anderson</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
