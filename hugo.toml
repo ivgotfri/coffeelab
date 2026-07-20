@@ -14,6 +14,7 @@ description = "원두 선택부터 추출 도구, 홈카페 셋업까지 — 실
 author = "CoffeeLab Editorial Team"
 tagline = "집에서 즐기는 카페 한 잔의 기준"
 favicon = "/favicon.ico"
+ga4MeasurementId = "G-76X9YSL06E"
 avatar = "/images/avatar.png"
 image = "/images/site-cover.jpg"
 
