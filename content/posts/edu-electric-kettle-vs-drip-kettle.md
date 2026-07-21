@@ -2,7 +2,7 @@
 title: "전기포트와 드립케틀, 뭐가 나을까"
 date: 2026-07-21
 categories: ["홈카페 셋업"]
-tags: ["드립케틀", "전기포트 비교", "홈카페 케틀", "핸드드립 물"]
+tags: ["핸드드립", "추출도구", "홈카페"]
 description: "홈카페에서 물을 끓이는 전기포트와 물을 붓는 드립케틀, 무엇이 다르고 어떤 상황에 뭐가 나은지 원리와 함께 비교해 정리했습니다."
 cover:
   image: "/images/posts/edu-electric-kettle-vs-drip-kettle.webp"

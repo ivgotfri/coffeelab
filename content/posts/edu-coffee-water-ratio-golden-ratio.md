@@ -2,7 +2,7 @@
 title: "커피와 물의 비율, 왜 그렇게 중요할까 — 골든 레시오 이해하기"
 date: 2026-07-20
 categories: ["추출 도구"]
-tags: ["골든레시오", "커피비율", "추출", "농도", "핸드드립"]
+tags: ["추출원리", "핸드드립"]
 description: "같은 원두인데도 어떤 날은 밍밍하고 어떤 날은 진한 이유. 커피와 물의 비율이 맛을 어떻게 좌우하는지 원리부터 쉽게 풀어봅니다."
 cover:
   image: "/images/posts/edu-coffee-water-ratio-golden-ratio.webp"

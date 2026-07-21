@@ -2,7 +2,7 @@
 title: "드리퍼 리브(홈) 구조가 추출에 미치는 영향"
 date: 2026-07-20
 categories: ["추출 도구"]
-tags: ["드리퍼", "드리퍼리브", "드리퍼구조", "핸드드립", "추출원리"]
+tags: ["핸드드립", "추출원리"]
 description: "드리퍼 안쪽에 파인 세로줄, 리브(홈)는 왜 있을까요. 공기 통로와 물 흐름이라는 관점에서 리브 구조가 커피 맛에 미치는 영향을 쉽게 풀었습니다."
 cover:
   image: "/images/posts/edu-dripper-rib-structure.webp"

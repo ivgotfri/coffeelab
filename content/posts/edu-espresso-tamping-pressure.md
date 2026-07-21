@@ -2,7 +2,7 @@
 title: "에스프레소 탬핑, 힘 조절이 중요한 이유"
 date: 2026-07-21
 categories: ["추출 도구"]
-tags: ["에스프레소", "탬핑", "탬핑압력", "홈카페", "추출원리"]
+tags: ["에스프레소", "추출원리", "홈카페"]
 description: "에스프레소 탬핑, 세게 눌러야 잘 나오는 걸까요. 탬핑이 하는 진짜 역할과 힘 조절보다 더 중요한 것을 초보자 눈높이로 정리했습니다."
 cover:
   image: "/images/posts/edu-espresso-tamping-pressure.webp"

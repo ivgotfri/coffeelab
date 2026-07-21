@@ -2,7 +2,7 @@
 title: "원두는 왜 시간이 지나면 맛이 없어질까 — 신선도와 보관의 원리"
 date: 2026-07-18
 categories: ["원두/로스팅"]
-tags: ["원두보관", "신선도", "디개싱", "산패", "홈카페"]
+tags: ["원두관리", "홈카페"]
 description: "원두가 시간이 지나며 맛을 잃는 이유를 산소·수분·향 손실이라는 세 가지 원리로 쉽게 풀어봅니다. 장마철 홈카페 보관에 특히 도움 되는 기초 지식입니다."
 cover:
   image: "/images/posts/edu-coffee-bean-freshness-storage.webp"

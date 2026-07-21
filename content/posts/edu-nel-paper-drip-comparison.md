@@ -2,7 +2,7 @@
 title: "융드립과 페이퍼드립, 맛이 다른 이유"
 date: 2026-07-21
 categories: ["추출 도구"]
-tags: ["융드립", "페이퍼드립", "핸드드립", "필터", "추출"]
+tags: ["핸드드립", "추출원리", "추출도구"]
 description: "융드립과 페이퍼드립은 같은 핸드드립인데 왜 맛이 다를까요. 필터 소재부터 오일과 미분의 차이까지 원리로 비교합니다."
 cover:
   image: "/images/posts/edu-nel-paper-drip-comparison.webp"

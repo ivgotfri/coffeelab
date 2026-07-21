@@ -2,7 +2,7 @@
 title: "핸드드립할 때 물맛이 쓰게 나올 때 확인해야 할 것들"
 date: 2026-07-19
 categories: ["추출 도구"]
-tags: ["핸드드립", "쓴맛", "과추출", "분쇄도", "물온도"]
+tags: ["추출원리", "핸드드립", "분쇄도"]
 description: "핸드드립 커피에서 자꾸 쓴맛이 날 때, 원인을 분쇄도·물온도·시간 순서로 하나씩 진단하고 바로잡는 방법을 정리했습니다."
 cover:
   image: "/images/posts/howto-hand-drip-bitter-taste.webp"

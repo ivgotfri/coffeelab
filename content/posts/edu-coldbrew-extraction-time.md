@@ -2,7 +2,7 @@
 title: "콜드브루 메이커, 추출 시간이 왜 중요할까"
 date: 2026-07-20
 categories: ["추출 도구"]
-tags: ["콜드브루", "추출시간", "콜드브루메이커", "저온추출", "홈카페"]
+tags: ["콜드브루", "추출원리", "홈카페"]
 description: "콜드브루가 뜨거운 커피와 무엇이 다른지, 추출 시간이 맛을 어떻게 좌우하는지 저온 추출의 원리부터 쉽게 풀어드립니다."
 cover:
   image: "/images/posts/edu-coldbrew-extraction-time.webp"

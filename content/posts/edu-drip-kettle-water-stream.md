@@ -2,7 +2,7 @@
 title: "드립포트 물줄기, 가늘어야 하는 이유"
 date: 2026-07-19
 categories: ["추출 도구"]
-tags: ["드립포트", "물줄기", "핸드드립", "추출원리", "그루밍"]
+tags: ["핸드드립", "추출원리", "추출도구"]
 description: "핸드드립에서 왜 물줄기를 가늘게 유지하라고 할까요. 물줄기 굵기가 추출에 미치는 원리를 초보자도 이해할 수 있게 풀어봤습니다."
 cover:
   image: "/images/posts/edu-drip-kettle-water-stream.webp"

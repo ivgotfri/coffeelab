@@ -2,7 +2,7 @@
 title: "에스프레소머신 추출 압력, 숫자만 보면 안 되는 이유"
 date: 2026-07-19
 categories: ["추출 도구"]
-tags: ["에스프레소", "추출압력", "9바", "머신선택", "추출원리"]
+tags: ["에스프레소", "추출원리"]
 description: "에스프레소머신 스펙에 적힌 '15바'라는 숫자, 정말 높을수록 좋은 걸까요. 추출 압력의 의미와 표시 압력의 함정을 초보자 눈높이로 풀었습니다."
 cover:
   image: "/images/posts/edu-espresso-pressure-numbers.webp"

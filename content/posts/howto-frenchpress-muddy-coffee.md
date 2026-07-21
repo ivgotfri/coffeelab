@@ -2,7 +2,7 @@
 title: "프렌치프레스 커피가 텁텁하고 지저분할 때 확인할 것들"
 date: 2026-07-18
 categories: ["추출 도구"]
-tags: ["프렌치프레스", "분쇄도", "추출", "미분", "홈카페"]
+tags: ["분쇄도", "추출원리", "추출도구"]
 description: "프렌치프레스로 내린 커피가 입안에 가루가 남고 텁텁하게 느껴진다면, 분쇄도부터 붓는 방식까지 원인을 순서대로 짚어봅니다."
 cover:
   image: "/images/posts/howto-frenchpress-muddy-coffee.webp"

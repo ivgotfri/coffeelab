@@ -2,7 +2,7 @@
 title: "에어로프레스와 핸드드립, 뭐가 나을까"
 date: 2026-07-18
 categories: ["추출 도구"]
-tags: ["에어로프레스", "핸드드립", "추출도구", "홈카페", "커피비교"]
+tags: ["핸드드립", "추출도구", "추출원리"]
 description: "에어로프레스와 핸드드립의 추출 원리, 맛 성향, 관리 편의성을 초보자 눈높이에서 비교해 내게 맞는 방식을 고르도록 돕습니다."
 cover:
   image: "/images/posts/edu-aeropress-vs-handdrip.webp"
