@@ -46,3 +46,9 @@ cover:
 우유 온도에 따른 맛 변화는 넉 달간 직접 써보며 느낀 체감을 정리한 것이고, 우유 위생·보관과 관련한 부분은 [식품의약품안전처](https://www.mfds.go.kr)의 안내를, 커피 소비 흐름은 [관세청](https://unipass.customs.go.kr) 수입 통계 자료를 참고했습니다.
 
 <small>사진: <a href="https://unsplash.com/@jackhishmeh?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Jack Hishmeh</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [커피머신 예열, 왜 필요할지 기준으로 정리했습니다](/posts/edu-coffee-machine-preheat/)
+- [라떼아트, 초보가 놓치기 쉬운 것들](/posts/exp-latte-art-beginner-mistakes/)
+- [장마철 원두 보관통, 밀폐력이 왜 중요할지 기준으로 정리했습니다](/posts/howto-bean-container-humidity/)

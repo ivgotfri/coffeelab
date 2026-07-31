@@ -53,3 +53,9 @@ cover:
 - [관세청 커피 수입량](https://unipass.customs.go.kr)
 
 <small>사진: <a href="https://unsplash.com/@nordwood?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">NordWood Themes</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [여름철 원두 보관, 실온이 위험한 이유](/posts/exp-summer-coffee-bean-storage/)
+- [장마철 원두 보관, 냉동실이 정답이 아닌 이유](/posts/howto-bean-storage-rainy-season/)
+- [블렌딩 비율 표기, 읽는 법부터 알면 고르기 쉬워집니다](/posts/edu-blend-ratio-label/)

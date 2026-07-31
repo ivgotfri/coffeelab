@@ -56,3 +56,9 @@ cover:
 이 후기는 몇 달간의 개인적인 사용 경험을 바탕으로 했습니다. 케멕스의 필터 규격이나 관리 방법은 제조사 공식 안내를, 커피 소비 트렌드는 FIS 식품산업통계정보 같은 공공 통계를 참고하시면 좋습니다.
 
 <small>사진: <a href="https://unsplash.com/@tamasp?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Tamas Pap</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [드리퍼 모양별(콘형/웨이브) 맛 차이가 나는 이유](/posts/edu-dripper-shape-cone-wave/)
+- [핸드드립 물온도, 계절마다 다르게 해야 할까](/posts/edu-handdrip-water-temperature-season/)
+- [늦여름 콜드브루 마무리, 메이커 세척과 보관 순서](/posts/exp-coldbrew-maker-cleaning-review/)

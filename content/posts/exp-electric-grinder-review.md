@@ -53,3 +53,9 @@ description: "저가 수동·전동 그라인더로 실패한 뒤 고른 전동 
 
 - [식품의약품안전처](https://www.mfds.go.kr) — 식품 관련 기본 정보
 - [한국소비자원](https://www.kca.go.kr) — 전동 제품 안전 사용 및 관리 관련 소비자 정보
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [커피 전자저울, 1년 넘게 써보고 남긴 솔직한 후기](/posts/exp-coffee-scale-review/)
+- [핸드드립 세트 반년 써보고 남기는 솔직한 후기](/posts/exp-handdrip-set-review/)
+- [드립스탠드, 꼭 필요한 도구일까](/posts/exp-drip-stand-necessary/)

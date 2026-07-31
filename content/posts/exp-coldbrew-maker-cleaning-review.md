@@ -52,3 +52,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr) — 주방 세제 사용 및 헹굼 관련 소비자 정보
 
 <small>사진: <a href="https://unsplash.com/@eugenechystiakov?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Eugene Chystiakov</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [케멕스가 일반 드리퍼와 갈리는 지점](/posts/exp-chemex-vs-dripper-months/)
+- [에어로프레스 인버티드 방식, 뒤집는 이유가 있습니다](/posts/exp-aeropress-inverted-method/)
+- [콜드브루 메이커, 추출 시간이 왜 중요할까](/posts/edu-coldbrew-extraction-time/)

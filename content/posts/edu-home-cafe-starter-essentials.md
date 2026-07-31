@@ -54,3 +54,9 @@ cover:
 원두의 신선도와 보관에 관한 내용은 여러 스페셜티 로스터리가 공개하는 로스팅 일자 및 보관 안내에서 공통적으로 확인할 수 있습니다. 또한 분쇄 후 향미가 빠르게 감소한다는 점은 커피 관련 학술·업계 자료에서 반복적으로 다뤄지는 내용이니, 관심 있으시면 각 로스터리의 공식 원두 설명이나 커피 협회 성격의 공개 교육 자료를 참고하시길 권합니다. 특정 URL을 옮기기보다, 신뢰할 수 있는 로스터리와 공신력 있는 협회의 1차 자료를 직접 찾아보시는 편이 정확합니다.
 
 <small>사진: <a href="https://unsplash.com/@battlecreekcoffeeroasters?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Battlecreek Coffee Roasters</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [홈카페 예산 10만원, 어디에 먼저 써야 할까](/posts/howto-homecafe-budget-priority/)
+- [커피 소모품(필터/가스켓) 언제 교체해야 할까](/posts/howto-coffee-consumables-replacement-timing/)
+- [좁은 홈카페 공간, 효율적으로 꾸미는 법](/posts/howto-small-homecafe-space-setup/)

@@ -48,3 +48,9 @@ cover:
 - [식품의약품안전처](https://www.mfds.go.kr) — 먹는물·수돗물 관련 정보
 
 <small>사진: <a href="https://unsplash.com/@photoholgic?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Photoholgic</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [드립포트 물줄기, 가늘어야 하는 이유](/posts/edu-drip-kettle-water-stream/)
+- [융드립과 페이퍼드립, 맛이 다른 이유](/posts/edu-nel-paper-drip-comparison/)
+- [모카포트 크기 선택, 2컵용을 반만 쓰면 안 되는 이유](/posts/howto-moka-pot-size-half-fill/)

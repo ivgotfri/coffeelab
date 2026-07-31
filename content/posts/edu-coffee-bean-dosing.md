@@ -50,3 +50,9 @@ cover:
 감으로 하던 시절엔 맛있게 나온 날을 다시 만들 수 없었어요. 계량을 시작하고 나서야 좋은 한 잔을 '반복'할 수 있게 됐습니다. 그 차이가 생각보다 큽니다.
 
 <small>사진: <a href="https://unsplash.com/@gregoryallen?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Gregory Hayes</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [장마철 원두 보관통, 밀폐력이 왜 중요할지 기준으로 정리했습니다](/posts/howto-bean-container-humidity/)
+- [커피 전자저울, 1년 넘게 써보고 남긴 솔직한 후기](/posts/exp-coffee-scale-review/)
+- [홈카페 정수기 물, 수돗물과 맛이 다를까](/posts/edu-coffee-water-choice/)

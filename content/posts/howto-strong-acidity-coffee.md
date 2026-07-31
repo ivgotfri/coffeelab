@@ -52,3 +52,9 @@ cover:
 산미는 조절하는 것이지 없애야 할 결점이 아닙니다. 위 순서대로 하나씩 짚다 보면, 톡 쏘던 신맛이 어느새 '기분 좋게 상큼한' 산미로 자리 잡는 지점을 만나실 거예요.
 
 <small>사진: <a href="https://unsplash.com/@nordwood?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">NordWood Themes</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [디카페인 원두, 카페인은 어떻게 빼는 걸까](/posts/edu-decaf-how-caffeine-removed/)
+- [산미와 쓴맛, 로스팅 강도가 결정하는 이유](/posts/edu-acidity-bitterness-roast/)
+- [갓 볶은 원두 vs 숙성된 원두, 뭐가 나을까](/posts/edu-fresh-vs-rested-coffee-beans/)

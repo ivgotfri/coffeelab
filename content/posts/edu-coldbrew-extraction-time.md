@@ -98,3 +98,9 @@ cover:
 - 여름철 식품·음료의 보관 위생 기준은 식품의약품안전처 등 공신력 있는 기관에서 안내하는 냉장 보관 원칙을 따르는 것을 권합니다.
 
 <small>사진: <a href="https://unsplash.com/@eugenechystiakov?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Eugene Chystiakov</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [프렌치프레스, 바디감이 진하게 나오는 이유](/posts/edu-frenchpress-body/)
+- [에스프레소머신 추출 압력, 숫자만 보면 안 되는 이유](/posts/edu-espresso-pressure-numbers/)
+- [늦여름 콜드브루 마무리, 메이커 세척과 보관 순서](/posts/exp-coldbrew-maker-cleaning-review/)

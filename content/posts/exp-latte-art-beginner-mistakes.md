@@ -50,3 +50,9 @@ cover:
 집에서 에스프레소를 이미 내려 마시고 있고, 아침 커피에 소소한 재미를 더하고 싶은 분이라면 도전해 볼 만합니다. 다만 "며칠이면 하트 정도는" 하는 기대는 접어두시길 권합니다. 손이 아니라 우유의 질감부터 다스려야 하는, 생각보다 진득한 취미거든요. 그래도 그 과정 자체가 커피를 더 깊이 이해하게 만들어 준다는 점에서, 저는 시작하길 잘했다고 생각합니다.
 
 <small>사진: <a href="https://unsplash.com/@armin_lotfi?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Armin Lotfi</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [얼음 트레이 냄새, 아이스커피 맛을 해치는 복병](/posts/exp-ice-tray-smell/)
+- [커피 저울 0.1g 단위, 정말 필요한 정밀도인지 따져봤습니다](/posts/exp-coffee-scale-01g-precision/)
+- [커피 저울을 쓰기 시작하면 달라지는 것들](/posts/edu-coffee-scale/)

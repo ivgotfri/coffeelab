@@ -70,3 +70,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr) — 가전제품 소비자 상담 및 안전 정보
 
 <small>사진: <a href="https://unsplash.com/@fhlcreative?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Phil Goodwin</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [좁은 홈카페 공간, 효율적으로 꾸미는 법](/posts/howto-small-homecafe-space-setup/)
+- [커피잔 재질(도자기/유리), 맛에 영향을 줄까](/posts/edu-coffee-cup-material-flavor/)
+- [얼음 트레이 냄새, 아이스커피 맛을 해치는 복병](/posts/exp-ice-tray-smell/)

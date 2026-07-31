@@ -52,3 +52,9 @@ cover:
 보관 온습도·소비 기한에 관한 일반적인 기준은 식품 보관 상식과 제품 표시 사항을 바탕으로 정리했고, 보관용품 관련 소비자 정보는 [한국소비자원](https://www.kca.go.kr) 자료를 참고했습니다.
 
 <small>사진: <a href="https://unsplash.com/@tuccera?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Tuccera LLC</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [커피머신 예열, 왜 필요할지 기준으로 정리했습니다](/posts/edu-coffee-machine-preheat/)
+- [우유 스티밍, 집에서도 가능할지 기준으로 정리했습니다](/posts/exp-milk-frother-steaming/)
+- [원두 계량, 감으로 하면 안 되는 이유](/posts/edu-coffee-bean-dosing/)

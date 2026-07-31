@@ -65,3 +65,9 @@ cover:
 - [식품의약품안전처](https://www.mfds.go.kr) — 식품 보관 일반 원칙
 
 <small>사진: <a href="https://unsplash.com/@pkripperprivate?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Parker Johnson</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [산미와 쓴맛, 로스팅 강도가 결정하는 이유](/posts/edu-acidity-bitterness-roast/)
+- [원두 로스팅 단계별 맛 차이, 뭘 봐야 할까](/posts/edu-roasting-taste-by-level/)
+- [디카페인 원두, 카페인은 어떻게 빼는 걸까](/posts/edu-decaf-how-caffeine-removed/)

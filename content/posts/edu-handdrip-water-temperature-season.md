@@ -63,3 +63,9 @@ cover:
 물온도별 추출 경향은 로스터리들이 공개하는 원두 추출 가이드와 각 로스터리 공식 스펙에서 공통적으로 언급하는 내용을 바탕으로 정리했습니다. 커피 성분·카페인 관련 정보는 식품의약품안전처 같은 공공기관 자료를 신뢰할 수 있는 출처로 참고하시길 권합니다.
 
 <small>사진: <a href="https://unsplash.com/@nate_dumlao?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Nathan Dumlao</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [드리퍼 모양별(콘형/웨이브) 맛 차이가 나는 이유](/posts/edu-dripper-shape-cone-wave/)
+- [드립포트 물줄기, 가늘어야 하는 이유](/posts/edu-drip-kettle-water-stream/)
+- [에어로프레스와 핸드드립, 뭐가 나을까](/posts/edu-aeropress-vs-handdrip/)

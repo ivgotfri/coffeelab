@@ -56,3 +56,9 @@ description: "설탕 시럽과 커피 원액을 집에서 직접 만들어 여�
 
 - [식품의약품안전처](https://www.mfds.go.kr) — 식품 보관 온도와 위생 기본 원칙
 - [한국소비자원](https://www.kca.go.kr) — 가정 내 식품 관리 관련 소비자 정보
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [커피 소모품(필터/가스켓) 언제 교체해야 할까](/posts/howto-coffee-consumables-replacement-timing/)
+- [좁은 홈카페 공간, 효율적으로 꾸미는 법](/posts/howto-small-homecafe-space-setup/)
+- [커피잔 재질(도자기/유리), 맛에 영향을 줄까](/posts/edu-coffee-cup-material-flavor/)

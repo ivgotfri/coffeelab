@@ -54,3 +54,9 @@ cover:
 - [식품의약품안전처](https://www.mfds.go.kr) — 식품 보관·신선도 관련 일반 안내
 
 <small>사진: <a href="https://unsplash.com/@seanbenesh?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Sean Benesh</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [원두 유통기한과 로스팅 날짜, 뭘 봐야 할까](/posts/edu-roast-date-vs-expiry/)
+- [원두 디개싱, 로스팅 후 3일을 기다리는 이유](/posts/edu-coffee-degassing-resting/)
+- [디카페인 원두, 카페인은 어떻게 빼는 걸까](/posts/edu-decaf-how-caffeine-removed/)

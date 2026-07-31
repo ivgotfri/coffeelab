@@ -50,3 +50,9 @@ cover:
 정리하면, 냄새는 대개 "덜 씻긴 기름"과 "덜 마른 물기" 두 가지에서 시작됩니다. 이 둘만 잡아도 열에 아홉은 해결돼요. 도구를 오래, 기분 좋게 쓰는 가장 확실한 방법은 결국 매번 완전히 말려서 보관하는 습관이더라고요. 특히 습한 여름엔 이 습관 하나가 커피 맛까지 지켜줍니다.
 
 <small>사진: <a href="https://unsplash.com/@magnusjonasson?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Magnus Jonasson</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [모카포트에서 탄맛 날 때 대처법](/posts/howto-mokapot-burnt-taste/)
+- [핸드드립과 에스프레소, 추출 원리부터 이해하기](/posts/edu-handdrip-espresso-extraction-principles/)
+- [드리퍼 모양별(콘형/웨이브) 맛 차이가 나는 이유](/posts/edu-dripper-shape-cone-wave/)

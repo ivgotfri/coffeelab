@@ -63,3 +63,9 @@ cover:
 - 접촉 시간(추출 시간)과 맛의 관계는 커피 추출 변수를 다루는 일반적인 추출 이론 자료의 방향과 일치합니다.
 
 <small>사진: <a href="https://unsplash.com/@rgaleriacom?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Ricardo Gomez Angel</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [드리퍼 모양별(콘형/웨이브) 맛 차이가 나는 이유](/posts/edu-dripper-shape-cone-wave/)
+- [핸드드립 물온도, 계절마다 다르게 해야 할까](/posts/edu-handdrip-water-temperature-season/)
+- [드립포트 물줄기, 가늘어야 하는 이유](/posts/edu-drip-kettle-water-stream/)

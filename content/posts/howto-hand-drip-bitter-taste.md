@@ -56,3 +56,9 @@ cover:
 그래도 안 되면 원두 자체가 강하게 볶인 것일 수 있습니다. 그럴 땐 애초에 성분이 잘 녹는 원두라, 앞의 값들을 전반적으로 '약하게'(굵게, 낮은 온도, 짧게) 가져가면 한결 부드러워집니다. 매번 완벽할 필요는 없어요. 한 잔씩 기록해두면 어느새 내 손에 맞는 값이 잡힙니다.
 
 <small>사진: <a href="https://unsplash.com/@ryanhidajat?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Ryan Hidajat</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [그라인더 분쇄도 안 맞을 때 해결법](/posts/howto-grinder-grind-size/)
+- [프렌치프레스 커피가 텁텁하고 지저분할 때 확인할 것들](/posts/howto-frenchpress-muddy-coffee/)
+- [드리퍼 모양별(콘형/웨이브) 맛 차이가 나는 이유](/posts/edu-dripper-shape-cone-wave/)

@@ -56,3 +56,9 @@ cover:
 - [식품의약품안전처](https://www.mfds.go.kr) — 식품 성분·안전 관련 일반 정보
 
 <small>사진: <a href="https://unsplash.com/@hectorip?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Hector Iván Patricio Moreno</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [원두 디개싱, 로스팅 후 3일을 기다리는 이유](/posts/edu-coffee-degassing-resting/)
+- [피베리 원두가 일반 원두와 다르게 취급되는 이유](/posts/edu-peaberry-single-bean/)
+- [원두 로스팅 단계별 맛 차이, 뭘 봐야 할까](/posts/edu-roasting-taste-by-level/)

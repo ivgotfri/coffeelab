@@ -52,3 +52,9 @@ cover:
 - [식품의약품안전처](https://www.mfds.go.kr) — 식품 속 지방 성분 및 커피 관련 정보
 
 <small>사진: <a href="https://unsplash.com/@adoucett?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Aaron Doucett</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [모카포트 크기 선택, 2컵용을 반만 쓰면 안 되는 이유](/posts/howto-moka-pot-size-half-fill/)
+- [드리퍼 모양별(콘형/웨이브) 맛 차이가 나는 이유](/posts/edu-dripper-shape-cone-wave/)
+- [모카포트 청소, 꼼꼼히 해야 하는 이유](/posts/edu-mokapot-cleaning/)

@@ -58,3 +58,9 @@ cover:
 원두 보관·위생의 기본 원칙은 식품의약품안전처에서 안내하는 식품 보관 일반 기준과 맥이 닿아 있습니다. 도구 청소 주기와 방법은 각 그라인더 제조사가 공개하는 공식 사용 설명서를 우선 참고하는 것이 가장 정확합니다.
 
 <small>사진: <a href="https://unsplash.com/@clementproust?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">clement proust</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [모카포트 청소, 꼼꼼히 해야 하는 이유](/posts/edu-mokapot-cleaning/)
+- [수동그라인더 vs 전동그라인더, 뭐가 나을까](/posts/edu-manual-vs-electric-grinder/)
+- [프렌치프레스 커피가 텁텁하고 지저분할 때 확인할 것들](/posts/howto-frenchpress-muddy-coffee/)

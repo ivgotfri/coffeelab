@@ -54,3 +54,9 @@ cover:
 - [FIS 식품산업통계정보](https://www.atfis.or.kr) — 커피 소비 관련 통계
 
 <small>사진: <a href="https://unsplash.com/@jakubzerdzicki?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Jakub Żerdzicki</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [커피머신 물때, 장마철에 더 신경 써야 하는 이유](/posts/edu-coffee-machine-limescale-rainy-season/)
+- [홈카페 예산 10만원, 어디에 먼저 써야 할까](/posts/howto-homecafe-budget-priority/)
+- [커피 소모품(필터/가스켓) 언제 교체해야 할까](/posts/howto-coffee-consumables-replacement-timing/)

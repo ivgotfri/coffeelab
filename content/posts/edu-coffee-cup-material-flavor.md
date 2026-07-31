@@ -52,3 +52,9 @@ A. 재질보다 관리가 중요합니다. 도자기잔은 안쪽 유약이 벗�
 - [한국소비자원](https://www.kca.go.kr)
 
 <small>사진: <a href="https://unsplash.com/@samantharam?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Samantha Ram</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [좁은 홈카페 공간, 효율적으로 꾸미는 법](/posts/howto-small-homecafe-space-setup/)
+- [얼음 트레이 냄새, 아이스커피 맛을 해치는 복병](/posts/exp-ice-tray-smell/)
+- [커피 시럽과 원액, 직접 만들어도 될까](/posts/exp-coffee-syrup-homemade/)

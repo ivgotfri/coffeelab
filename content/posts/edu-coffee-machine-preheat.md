@@ -56,3 +56,9 @@ cover:
 - 커피·음료 관련 위생 및 기구 관리 정보: [식품의약품안전처](https://www.mfds.go.kr)
 
 <small>사진: <a href="https://unsplash.com/@lighttouchedphotography?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Kevin Schmid</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [장마철 원두 보관통, 밀폐력이 왜 중요할지 기준으로 정리했습니다](/posts/howto-bean-container-humidity/)
+- [우유 스티밍, 집에서도 가능할지 기준으로 정리했습니다](/posts/exp-milk-frother-steaming/)
+- [홈카페 커피머신, 유지비까지 따져봐야 하는 이유](/posts/edu-home-cafe-machine-running-cost/)

@@ -63,3 +63,9 @@ cover:
 - 디개싱(이산화탄소 배출) 구간에 관한 설명은 각 로스터리가 권장하는 음용 시점 안내를 종합한 것으로, 원두별로 편차가 있으니 구매처의 권장 정보를 함께 확인하시길 권합니다.
 
 <small>사진: <a href="https://unsplash.com/@miloezger?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Milo Miloezger</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [블렌딩 비율 표기, 읽는 법부터 알면 고르기 쉬워집니다](/posts/edu-blend-ratio-label/)
+- [싱글오리진과 블렌드, 뭐가 다를까](/posts/edu-single-origin-vs-blend/)
+- [여름철 원두 보관, 실온이 위험한 이유](/posts/exp-summer-coffee-bean-storage/)

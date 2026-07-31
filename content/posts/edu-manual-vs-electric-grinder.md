@@ -50,3 +50,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr) — 생활 가전 구매 전 참고할 소비자 정보·피해 사례
 
 <small>사진: <a href="https://unsplash.com/@qoph_s?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">John Sin</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [에어로프레스와 핸드드립, 뭐가 나을까](/posts/edu-aeropress-vs-handdrip/)
+- [수동 핸드밀 반년 넘게 써본 솔직한 후기](/posts/exp-manual-hand-grinder/)
+- [모카포트 청소, 꼼꼼히 해야 하는 이유](/posts/edu-mokapot-cleaning/)

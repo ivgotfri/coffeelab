@@ -61,3 +61,9 @@ cover:
 - 정수기 등 생활 기기 소비자 정보: [한국소비자원](https://www.kca.go.kr)
 
 <small>사진: <a href="https://unsplash.com/@f_entady?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Fady O</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [커피 전자저울, 1년 넘게 써보고 남긴 솔직한 후기](/posts/exp-coffee-scale-review/)
+- [홈카페 예산 10만원, 어디에 먼저 써야 할까](/posts/howto-homecafe-budget-priority/)
+- [좁은 홈카페 공간, 효율적으로 꾸미는 법](/posts/howto-small-homecafe-space-setup/)

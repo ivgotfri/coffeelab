@@ -55,3 +55,9 @@ cover:
 - [FIS 식품산업통계정보](https://www.atfis.or.kr) — 커피 관련 소비 흐름 통계
 
 <small>사진: <a href="https://unsplash.com/@battlecreekcoffeeroasters?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Battlecreek Coffee Roasters</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [여름철 원두 보관, 실온이 위험한 이유](/posts/exp-summer-coffee-bean-storage/)
+- [원두 봉투의 아로마 밸브, 장식이 아닌 이유](/posts/edu-coffee-bag-aroma-valve/)
+- [장마철 원두 보관, 냉동실이 정답이 아닌 이유](/posts/howto-bean-storage-rainy-season/)

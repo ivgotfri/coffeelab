@@ -54,3 +54,9 @@ cover:
 프렌치프레스의 텁텁함은 도구 탓보다 대부분 **분쇄와 마무리 습관** 문제입니다. 굵게 갈고, 살짝만 누르고, 끝나면 바로 옮겨 담기. 이 세 가지만 지켜도 컵 바닥이 훨씬 깨끗해집니다. 오늘 한 잔부터 하나씩 바꿔보세요.
 
 <small>사진: <a href="https://unsplash.com/@lexianderson?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Lexi Anderson</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [프렌치프레스, 바디감이 진하게 나오는 이유](/posts/edu-frenchpress-body/)
+- [그라인더 날 종류별(코니컬/플랫) 특징 쉽게 설명](/posts/edu-grinder-burr-conical-flat/)
+- [핸드드립할 때 물맛이 쓰게 나올 때 확인해야 할 것들](/posts/howto-hand-drip-bitter-taste/)

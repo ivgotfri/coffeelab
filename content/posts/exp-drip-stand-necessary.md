@@ -52,3 +52,9 @@ cover:
 - 개인적으로 반년 넘게 써 본 사용 경험을 정리한 글이며, 특정 브랜드·모델을 추천하지 않습니다.
 
 <small>사진: <a href="https://unsplash.com/@marceloleal80?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Marcelo Leal</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [핸드드립 세트 반년 써보고 남기는 솔직한 후기](/posts/exp-handdrip-set-review/)
+- [커피 전자저울, 1년 넘게 써보고 남긴 솔직한 후기](/posts/exp-coffee-scale-review/)
+- [커피 저울 0.1g 단위, 정말 필요한 정밀도인지 따져봤습니다](/posts/exp-coffee-scale-01g-precision/)

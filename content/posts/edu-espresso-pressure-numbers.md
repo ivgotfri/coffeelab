@@ -61,3 +61,9 @@ cover:
 에스프레소 추출의 표준 압력(약 9바) 개념은 스페셜티커피협회(SCA) 계열의 에스프레소 정의 및 바리스타 교육 과정에서 공통적으로 다루는 내용입니다. 또한 가정용 머신의 '표시 최대 압력'과 '실제 추출 압력'이 다르다는 점은 여러 에스프레소머신 제조사가 공개한 펌프 사양 설명과 압력 제한 밸브(OPV) 관련 기술 문서에서 확인할 수 있습니다. 구체적인 최적값은 원두와 로스팅 정도에 따라 달라지므로, 신뢰할 수 있는 로스터리나 제조사의 공식 가이드를 함께 참고하시길 권합니다.
 
 <small>사진: <a href="https://unsplash.com/@1charlessims?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Charles Sims</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [모카포트 크기 선택, 2컵용을 반만 쓰면 안 되는 이유](/posts/howto-moka-pot-size-half-fill/)
+- [핸드드립과 에스프레소, 추출 원리부터 이해하기](/posts/edu-handdrip-espresso-extraction-principles/)
+- [에스프레소 탬핑, 힘 조절이 중요한 이유](/posts/edu-espresso-tamping-pressure/)

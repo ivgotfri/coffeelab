@@ -74,3 +74,9 @@ cover:
 - 위 비율 범위는 일반적으로 통용되는 기준이며, 원두 로스팅 정도와 개인 취향에 따라 조정하는 것이 자연스럽습니다.
 
 <small>사진: <a href="https://unsplash.com/@cb_21?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Carlett Badenhorst</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [핸드드립과 에스프레소, 추출 원리부터 이해하기](/posts/edu-handdrip-espresso-extraction-principles/)
+- [드리퍼 모양별(콘형/웨이브) 맛 차이가 나는 이유](/posts/edu-dripper-shape-cone-wave/)
+- [핸드드립 물온도, 계절마다 다르게 해야 할까](/posts/edu-handdrip-water-temperature-season/)

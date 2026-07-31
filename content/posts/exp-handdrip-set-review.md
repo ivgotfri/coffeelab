@@ -52,3 +52,9 @@ description: "홈카페 입문용으로 산 핸드드립 세트를 반년 동안
 ## 참고자료
 
 - [한국소비자원](https://www.kca.go.kr) — 주방·조리 도구 안전 및 내구 관련 소비자 정보
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [커피 전자저울, 1년 넘게 써보고 남긴 솔직한 후기](/posts/exp-coffee-scale-review/)
+- [드립스탠드, 꼭 필요한 도구일까](/posts/exp-drip-stand-necessary/)
+- [전동 그라인더 1년 써보고 느낀 점](/posts/exp-electric-grinder-review/)

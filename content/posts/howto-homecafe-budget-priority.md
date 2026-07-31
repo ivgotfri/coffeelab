@@ -61,3 +61,9 @@ cover:
 - [식품의약품안전처](https://www.mfds.go.kr) — 가정용 정수·위생 기준
 
 <small>사진: <a href="https://unsplash.com/@jorgecesar?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Jorge César</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [커피 소모품(필터/가스켓) 언제 교체해야 할까](/posts/howto-coffee-consumables-replacement-timing/)
+- [커피머신 물때, 장마철에 더 신경 써야 하는 이유](/posts/edu-coffee-machine-limescale-rainy-season/)
+- [전기포트와 드립케틀, 뭐가 나을까](/posts/edu-electric-kettle-vs-drip-kettle/)

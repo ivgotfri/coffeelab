@@ -57,3 +57,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr) — 생활화학제품·세정제 안전 사용 정보
 
 <small>사진: <a href="https://unsplash.com/@kristsll?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Krists Luhaers</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [홈카페 커피머신, 유지비까지 따져봐야 하는 이유](/posts/edu-home-cafe-machine-running-cost/)
+- [홈카페 예산 10만원, 어디에 먼저 써야 할까](/posts/howto-homecafe-budget-priority/)
+- [좁은 홈카페 공간, 효율적으로 꾸미는 법](/posts/howto-small-homecafe-space-setup/)

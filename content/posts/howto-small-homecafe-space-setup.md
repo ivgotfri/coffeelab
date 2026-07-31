@@ -75,3 +75,9 @@ cover:
 좁은 홈카페의 답은 "더 큰 공간"이 아니라 "덜어내고 올리고 모으는 것"에 있습니다. 오늘 딱 3등급 분류부터 시작해 보시길 권합니다.
 
 <small>사진: <a href="https://unsplash.com/@tuan0_12?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Tuan Nguyen</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [커피잔 재질(도자기/유리), 맛에 영향을 줄까](/posts/edu-coffee-cup-material-flavor/)
+- [얼음 트레이 냄새, 아이스커피 맛을 해치는 복병](/posts/exp-ice-tray-smell/)
+- [커피 시럽과 원액, 직접 만들어도 될까](/posts/exp-coffee-syrup-homemade/)

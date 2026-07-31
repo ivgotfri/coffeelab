@@ -58,3 +58,9 @@ description: "여름 내내 방치한 홈카페 코너, 어디부터 손대야 �
 
 - [식품의약품안전처](https://www.mfds.go.kr) — 조리도구 세척 세제 사용 및 헹굼 기준
 - [한국소비자원](https://www.kca.go.kr) — 주방용품 세척·소재 손상 관련 소비자 정보
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [좁은 홈카페 공간, 효율적으로 꾸미는 법](/posts/howto-small-homecafe-space-setup/)
+- [커피잔 재질(도자기/유리), 맛에 영향을 줄까](/posts/edu-coffee-cup-material-flavor/)
+- [얼음 트레이 냄새, 아이스커피 맛을 해치는 복병](/posts/exp-ice-tray-smell/)

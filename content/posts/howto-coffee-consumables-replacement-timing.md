@@ -54,3 +54,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr) — 제품 관리·소비자 상담 정보
 
 <small>사진: <a href="https://unsplash.com/@crew?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Crew</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [홈카페 예산 10만원, 어디에 먼저 써야 할까](/posts/howto-homecafe-budget-priority/)
+- [커피 시럽과 원액, 직접 만들어도 될까](/posts/exp-coffee-syrup-homemade/)
+- [커피 저울을 쓰기 시작하면 달라지는 것들](/posts/edu-coffee-scale/)

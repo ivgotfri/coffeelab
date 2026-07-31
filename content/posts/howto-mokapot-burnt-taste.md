@@ -54,3 +54,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr) — 조리기구 재질 및 관리 관련 정보
 
 <small>사진: <a href="https://unsplash.com/@jorgecesar?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Jorge César</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [추출 도구 세척 후에도 냄새 날 때 대처법](/posts/howto-brewing-tools-odor-after-cleaning/)
+- [모카포트 크기 선택, 2컵용을 반만 쓰면 안 되는 이유](/posts/howto-moka-pot-size-half-fill/)
+- [드리퍼 모양별(콘형/웨이브) 맛 차이가 나는 이유](/posts/edu-dripper-shape-cone-wave/)

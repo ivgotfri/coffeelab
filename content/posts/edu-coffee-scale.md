@@ -49,3 +49,9 @@ cover:
 이 글의 추출 비율·물 온도 범위는 로스터리들이 원두 봉투나 공식 소개 페이지에 적어 두는 '권장 추출 가이드'에서 공통적으로 언급되는 값을 정리한 것입니다. 브랜드마다 조금씩 다르니 내가 쓰는 원두의 공식 스펙을 먼저 확인해 보시길 권해요. 카페인 섭취 기준과 관련한 부분은 [식품의약품안전처](https://www.mfds.go.kr)의 안내 자료를 참고했습니다.
 
 <small>사진: <a href="https://unsplash.com/@user_pascal?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">User_Pascal</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [전기포트와 드립케틀, 뭐가 나을까](/posts/edu-electric-kettle-vs-drip-kettle/)
+- [커피 전자저울, 1년 넘게 써보고 남긴 솔직한 후기](/posts/exp-coffee-scale-review/)
+- [홈카페 예산 10만원, 어디에 먼저 써야 할까](/posts/howto-homecafe-budget-priority/)

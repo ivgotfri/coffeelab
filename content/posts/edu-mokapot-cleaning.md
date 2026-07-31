@@ -59,3 +59,9 @@ cover:
 - 개스킷 등 소모품 교체 주기는 모카포트 제조사들이 제품 안내에 표기하는 관리 지침을 근거로 정리했습니다. (정확한 주기는 사용하시는 제품의 공식 안내를 확인하시길 권합니다.)
 
 <small>사진: <a href="https://unsplash.com/@myboholifeph?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Beng Ragon</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [모카포트 크기 선택, 2컵용을 반만 쓰면 안 되는 이유](/posts/howto-moka-pot-size-half-fill/)
+- [프렌치프레스, 바디감이 진하게 나오는 이유](/posts/edu-frenchpress-body/)
+- [드립포트 물줄기, 가늘어야 하는 이유](/posts/edu-drip-kettle-water-stream/)

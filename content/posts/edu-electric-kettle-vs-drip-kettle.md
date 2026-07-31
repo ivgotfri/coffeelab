@@ -55,3 +55,9 @@ cover:
 물 온도와 물줄기가 추출에 미치는 영향은 여러 스페셜티 커피 협회의 공개 추출 가이드와 로스터리들이 제공하는 추출 레시피 자료에서 공통적으로 다루는 내용입니다. 케틀의 형태별 특성이나 온도 조절 기능에 관한 사양은 각 제조사가 공개하는 공식 제품 스펙에서 확인하시는 것이 가장 정확합니다. 여기서는 특정 URL을 옮기기보다, 신뢰할 수 있는 커피 협회의 교육 자료와 제조사 공식 사양을 직접 확인해보시길 권합니다.
 
 <small>사진: <a href="https://unsplash.com/@paniotovvv?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Gleb Paniotov</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [커피 저울을 쓰기 시작하면 달라지는 것들](/posts/edu-coffee-scale/)
+- [홈카페 예산 10만원, 어디에 먼저 써야 할까](/posts/howto-homecafe-budget-priority/)
+- [핸드드립 세트 반년 써보고 남기는 솔직한 후기](/posts/exp-handdrip-set-review/)

@@ -63,3 +63,9 @@ cover:
 - 레벨링(분포 고르기) 단계가 균일 추출에 미치는 영향은 에스프레소 추출 변수를 다루는 일반 추출 이론 자료의 설명과 일치합니다.
 
 <small>사진: <a href="https://unsplash.com/@nh7_?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Noora AlHammadi</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [프렌치프레스, 바디감이 진하게 나오는 이유](/posts/edu-frenchpress-body/)
+- [에스프레소머신 추출 압력, 숫자만 보면 안 되는 이유](/posts/edu-espresso-pressure-numbers/)
+- [모카포트 크기 선택, 2컵용을 반만 쓰면 안 되는 이유](/posts/howto-moka-pot-size-half-fill/)

@@ -58,3 +58,9 @@ cover:
 - 로스터리와 그라인더 제조사가 배포하는 추출 가이드도 날 방식별 권장 분쇄도를 이해하는 좋은 출발점이 됩니다.
 
 <small>사진: <a href="https://unsplash.com/@danielnorris?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Daniel Norris</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [그라인더 분쇄도 안 맞을 때 해결법](/posts/howto-grinder-grind-size/)
+- [프렌치프레스 커피가 텁텁하고 지저분할 때 확인할 것들](/posts/howto-frenchpress-muddy-coffee/)
+- [모카포트 크기 선택, 2컵용을 반만 쓰면 안 되는 이유](/posts/howto-moka-pot-size-half-fill/)

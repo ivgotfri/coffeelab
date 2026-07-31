@@ -91,3 +91,9 @@ cover:
 분쇄도는 한 번 감을 잡아두면 그 뒤로는 훨씬 수월해집니다. 처음엔 번거롭더라도 한 클릭씩, 한 변수씩 차근차근 좁혀가 보세요. 내 도구와 원두에 맞는 그 지점을 찾고 나면, 아침 커피가 확실히 안정됩니다.
 
 <small>사진: <a href="https://unsplash.com/@crew?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Crew</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [그라인더 날 종류별(코니컬/플랫) 특징 쉽게 설명](/posts/edu-grinder-burr-conical-flat/)
+- [핸드드립할 때 물맛이 쓰게 나올 때 확인해야 할 것들](/posts/howto-hand-drip-bitter-taste/)
+- [드리퍼 모양별(콘형/웨이브) 맛 차이가 나는 이유](/posts/edu-dripper-shape-cone-wave/)

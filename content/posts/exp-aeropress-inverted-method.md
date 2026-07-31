@@ -54,3 +54,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr) — 생활 안전·화상 예방 관련 정보
 
 <small>사진: <a href="https://unsplash.com/@khoiruabdan?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Khoiru Abdan</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [케멕스가 일반 드리퍼와 갈리는 지점](/posts/exp-chemex-vs-dripper-months/)
+- [늦여름 콜드브루 마무리, 메이커 세척과 보관 순서](/posts/exp-coldbrew-maker-cleaning-review/)
+- [모카포트 크기 선택, 2컵용을 반만 쓰면 안 되는 이유](/posts/howto-moka-pot-size-half-fill/)

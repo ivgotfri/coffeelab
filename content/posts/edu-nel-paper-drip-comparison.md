@@ -93,3 +93,9 @@ cover:
 어느 쪽이 정답은 아닙니다. 개운한 한 잔이 필요한 날엔 페이퍼, 진하고 풍성한 한 잔이 당기는 날엔 융. 두 방식의 원리를 알아두면, 그날의 기분과 원두에 맞춰 골라 내리는 재미가 생깁니다.
 
 <small>사진: <a href="https://unsplash.com/@frankorosas?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">franko ro</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [드리퍼 모양별(콘형/웨이브) 맛 차이가 나는 이유](/posts/edu-dripper-shape-cone-wave/)
+- [드립포트 물줄기, 가늘어야 하는 이유](/posts/edu-drip-kettle-water-stream/)
+- [모카포트 크기 선택, 2컵용을 반만 쓰면 안 되는 이유](/posts/howto-moka-pot-size-half-fill/)

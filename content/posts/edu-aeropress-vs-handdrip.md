@@ -66,3 +66,9 @@ cover:
 추출 방식별 특성은 에어로프레스 제조사가 공개하는 사용 가이드와 각 드리퍼 제조사(하리오·칼리타 등)가 제공하는 공식 추출 레시피 자료를 함께 비교하면 이해가 빠릅니다. 또한 스페셜티커피협회(SCA)에서 제시하는 추출 수율·농도 관련 일반 기준 자료는, 방식이 달라도 통하는 '물과 원두의 비율' 개념을 잡는 데 도움이 됩니다. 구체적인 수치는 원두 로스팅 정도와 취향에 따라 달라지므로, 공식 자료를 출발점으로 삼아 본인 입맛에 맞게 조정해 보시길 권합니다.
 
 <small>사진: <a href="https://unsplash.com/@monazme?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Monaz Nazary</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [드리퍼 모양별(콘형/웨이브) 맛 차이가 나는 이유](/posts/edu-dripper-shape-cone-wave/)
+- [핸드드립 물온도, 계절마다 다르게 해야 할까](/posts/edu-handdrip-water-temperature-season/)
+- [수동그라인더 vs 전동그라인더, 뭐가 나을까](/posts/edu-manual-vs-electric-grinder/)
