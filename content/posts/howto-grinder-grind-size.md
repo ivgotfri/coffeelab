@@ -97,3 +97,6 @@ cover:
 - [그라인더 날 종류별(코니컬/플랫) 특징 쉽게 설명](/posts/edu-grinder-burr-conical-flat/)
 - [핸드드립할 때 물맛이 쓰게 나올 때 확인해야 할 것들](/posts/howto-hand-drip-bitter-taste/)
 - [드리퍼 모양별(콘형/웨이브) 맛 차이가 나는 이유](/posts/edu-dripper-shape-cone-wave/)
+
+이 주제가 처음이라면 [추출 도구, 어디서부터 읽으면 좋을까 — 카테고리 길잡이](https://coffeelab.inforcore.net/posts/hub-brewing-tools/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

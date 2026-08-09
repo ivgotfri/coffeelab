@@ -56,3 +56,6 @@ cover:
 - [장마철 원두 보관통, 밀폐력이 왜 중요할지 기준으로 정리했습니다](/posts/howto-bean-container-humidity/)
 - [커피 전자저울, 1년 넘게 써보고 남긴 솔직한 후기](/posts/exp-coffee-scale-review/)
 - [홈카페 정수기 물, 수돗물과 맛이 다를까](/posts/edu-coffee-water-choice/)
+
+이 주제가 처음이라면 [홈카페 셋업, 순서를 잡으면 돈도 시간도 아낍니다](https://coffeelab.inforcore.net/posts/hub-homecafe-setup/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

@@ -68,3 +68,6 @@ cover:
 - [홈카페 예산 10만원, 어디에 먼저 써야 할까](/posts/howto-homecafe-budget-priority/)
 - [전기포트와 드립케틀, 뭐가 나을까](/posts/edu-electric-kettle-vs-drip-kettle/)
 - [커피 저울을 쓰기 시작하면 달라지는 것들](/posts/edu-coffee-scale/)
+
+이 주제가 처음이라면 [홈카페 셋업, 순서를 잡으면 돈도 시간도 아낍니다](https://coffeelab.inforcore.net/posts/hub-homecafe-setup/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

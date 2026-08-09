@@ -59,3 +59,6 @@ description: "커피 찌꺼기 탈취·비료 활용법이 왜 절반만 맞는�
 - [커피 도구 수납, 자주 쓰는 3가지만 꺼내두세요](/posts/howto-coffee-tool-storage/)
 - [커피 시럽과 원액, 직접 만들어도 될까](/posts/exp-coffee-syrup-homemade/)
 - [커피 소모품(필터/가스켓) 언제 교체해야 할까](/posts/howto-coffee-consumables-replacement-timing/)
+
+이 주제가 처음이라면 [홈카페 셋업, 순서를 잡으면 돈도 시간도 아낍니다](https://coffeelab.inforcore.net/posts/hub-homecafe-setup/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

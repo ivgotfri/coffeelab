@@ -54,3 +54,6 @@ cover:
 - [식품의약품안전처](https://www.mfds.go.kr) — 카페인 함량 및 관련 기준 정보
 
 <small>사진: <a href="https://unsplash.com/@itfeelslikefilm?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">🇸🇮 Janko Ferlič</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+이 주제가 처음이라면 [원두, 산지에서 잔까지 맛이 이어지는 길](https://coffeelab.inforcore.net/posts/hub-coffee-beans-roasting/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

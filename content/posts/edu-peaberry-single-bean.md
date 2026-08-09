@@ -55,3 +55,6 @@ cover:
 - [디카페인 원두, 카페인은 어떻게 빼는 걸까](/posts/edu-decaf-how-caffeine-removed/)
 
 <small>사진: <a href="https://unsplash.com/@milada_vigerova?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Milada Vigerova</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+이 주제가 처음이라면 [원두, 산지에서 잔까지 맛이 이어지는 길](https://coffeelab.inforcore.net/posts/hub-coffee-beans-roasting/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

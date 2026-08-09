@@ -58,3 +58,6 @@ cover:
 - [핸드드립 세트 반년 써보고 남기는 솔직한 후기](/posts/exp-handdrip-set-review/)
 - [커피 전자저울, 1년 넘게 써보고 남긴 솔직한 후기](/posts/exp-coffee-scale-review/)
 - [커피 저울 0.1g 단위, 정말 필요한 정밀도인지 따져봤습니다](/posts/exp-coffee-scale-01g-precision/)
+
+이 주제가 처음이라면 [홈카페 셋업, 순서를 잡으면 돈도 시간도 아낍니다](https://coffeelab.inforcore.net/posts/hub-homecafe-setup/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

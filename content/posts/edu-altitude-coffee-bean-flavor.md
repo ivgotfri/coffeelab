@@ -47,3 +47,6 @@ cover:
 - [여름철 원두 보관, 실온이 위험한 이유](/posts/exp-summer-coffee-bean-storage/)
 - [원두 대용량 구매, 정말 알뜰할까](/posts/exp-bulk-coffee-beans-buying/)
 - [장마철 원두 보관, 냉동실이 정답이 아닌 이유](/posts/howto-bean-storage-rainy-season/)
+
+이 주제가 처음이라면 [원두, 산지에서 잔까지 맛이 이어지는 길](https://coffeelab.inforcore.net/posts/hub-coffee-beans-roasting/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

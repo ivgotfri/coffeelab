@@ -64,3 +64,6 @@ cover:
 - [모카포트 청소, 꼼꼼히 해야 하는 이유](/posts/edu-mokapot-cleaning/)
 - [수동그라인더 vs 전동그라인더, 뭐가 나을까](/posts/edu-manual-vs-electric-grinder/)
 - [프렌치프레스 커피가 텁텁하고 지저분할 때 확인할 것들](/posts/howto-frenchpress-muddy-coffee/)
+
+이 주제가 처음이라면 [추출 도구, 어디서부터 읽으면 좋을까 — 카테고리 길잡이](https://coffeelab.inforcore.net/posts/hub-brewing-tools/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

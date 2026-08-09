@@ -104,3 +104,6 @@ cover:
 - [프렌치프레스, 바디감이 진하게 나오는 이유](/posts/edu-frenchpress-body/)
 - [에스프레소머신 추출 압력, 숫자만 보면 안 되는 이유](/posts/edu-espresso-pressure-numbers/)
 - [늦여름 콜드브루 마무리, 메이커 세척과 보관 순서](/posts/exp-coldbrew-maker-cleaning-review/)
+
+이 주제가 처음이라면 [추출 도구, 어디서부터 읽으면 좋을까 — 카테고리 길잡이](https://coffeelab.inforcore.net/posts/hub-brewing-tools/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

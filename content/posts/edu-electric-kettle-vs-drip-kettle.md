@@ -61,3 +61,6 @@ cover:
 - [커피 저울을 쓰기 시작하면 달라지는 것들](/posts/edu-coffee-scale/)
 - [홈카페 예산 10만원, 어디에 먼저 써야 할까](/posts/howto-homecafe-budget-priority/)
 - [핸드드립 세트 반년 써보고 남기는 솔직한 후기](/posts/exp-handdrip-set-review/)
+
+이 주제가 처음이라면 [홈카페 셋업, 순서를 잡으면 돈도 시간도 아낍니다](https://coffeelab.inforcore.net/posts/hub-homecafe-setup/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

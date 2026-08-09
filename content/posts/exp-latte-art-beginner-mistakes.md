@@ -56,3 +56,6 @@ cover:
 - [얼음 트레이 냄새, 아이스커피 맛을 해치는 복병](/posts/exp-ice-tray-smell/)
 - [커피 저울 0.1g 단위, 정말 필요한 정밀도인지 따져봤습니다](/posts/exp-coffee-scale-01g-precision/)
 - [커피 저울을 쓰기 시작하면 달라지는 것들](/posts/edu-coffee-scale/)
+
+이 주제가 처음이라면 [홈카페 셋업, 순서를 잡으면 돈도 시간도 아낍니다](https://coffeelab.inforcore.net/posts/hub-homecafe-setup/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

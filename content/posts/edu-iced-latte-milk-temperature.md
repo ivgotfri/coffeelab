@@ -54,3 +54,6 @@ cover:
 - [에스프레소 탬핑, 힘 조절이 중요한 이유](/posts/edu-espresso-tamping-pressure/)
 - [모카포트 청소, 꼼꼼히 해야 하는 이유](/posts/edu-mokapot-cleaning/)
 - [프렌치프레스, 바디감이 진하게 나오는 이유](/posts/edu-frenchpress-body/)
+
+이 주제가 처음이라면 [추출 도구, 어디서부터 읽으면 좋을까 — 카테고리 길잡이](https://coffeelab.inforcore.net/posts/hub-brewing-tools/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

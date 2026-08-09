@@ -62,3 +62,6 @@ cover:
 - [원두는 왜 시간이 지나면 맛이 없어질까 — 신선도와 보관의 원리](/posts/edu-coffee-bean-freshness-storage/)
 
 <small>사진: <a href="https://unsplash.com/@mockupfreenet?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Mockup Free</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+이 주제가 처음이라면 [원두, 산지에서 잔까지 맛이 이어지는 길](https://coffeelab.inforcore.net/posts/hub-coffee-beans-roasting/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

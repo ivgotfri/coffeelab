@@ -68,3 +68,6 @@ cover:
 - [블렌딩 비율 표기, 읽는 법부터 알면 고르기 쉬워집니다](/posts/edu-blend-ratio-label/)
 - [싱글오리진과 블렌드, 뭐가 다를까](/posts/edu-single-origin-vs-blend/)
 - [커핑 노트 읽는 법, 초콜릿 향이 정말 나는 걸까](/posts/edu-cupping-notes-flavor/)
+
+이 주제가 처음이라면 [원두, 산지에서 잔까지 맛이 이어지는 길](https://coffeelab.inforcore.net/posts/hub-coffee-beans-roasting/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

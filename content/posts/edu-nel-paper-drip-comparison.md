@@ -99,3 +99,6 @@ cover:
 - [드리퍼 모양별(콘형/웨이브) 맛 차이가 나는 이유](/posts/edu-dripper-shape-cone-wave/)
 - [드립포트 물줄기, 가늘어야 하는 이유](/posts/edu-drip-kettle-water-stream/)
 - [모카포트 크기 선택, 2컵용을 반만 쓰면 안 되는 이유](/posts/howto-moka-pot-size-half-fill/)
+
+이 주제가 처음이라면 [추출 도구, 어디서부터 읽으면 좋을까 — 카테고리 길잡이](https://coffeelab.inforcore.net/posts/hub-brewing-tools/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

@@ -58,3 +58,6 @@ cover:
 - [디카페인 원두, 카페인은 어떻게 빼는 걸까](/posts/edu-decaf-how-caffeine-removed/)
 - [산미와 쓴맛, 로스팅 강도가 결정하는 이유](/posts/edu-acidity-bitterness-roast/)
 - [갓 볶은 원두 vs 숙성된 원두, 뭐가 나을까](/posts/edu-fresh-vs-rested-coffee-beans/)
+
+이 주제가 처음이라면 [원두, 산지에서 잔까지 맛이 이어지는 길](https://coffeelab.inforcore.net/posts/hub-coffee-beans-roasting/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

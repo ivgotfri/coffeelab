@@ -61,3 +61,6 @@ cover:
 - [모카포트 청소, 꼼꼼히 해야 하는 이유](/posts/edu-mokapot-cleaning/)
 - [에스프레소머신 추출 압력, 숫자만 보면 안 되는 이유](/posts/edu-espresso-pressure-numbers/)
 - [에스프레소 샷 시간 25초 전후를 보는 이유](/posts/howto-espresso-shot-time-25s/)
+
+이 주제가 처음이라면 [추출 도구, 어디서부터 읽으면 좋을까 — 카테고리 길잡이](https://coffeelab.inforcore.net/posts/hub-brewing-tools/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

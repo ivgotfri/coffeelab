@@ -58,3 +58,6 @@ cover:
 - [커피머신 예열, 왜 필요할지 기준으로 정리했습니다](/posts/edu-coffee-machine-preheat/)
 - [우유 스티밍, 집에서도 가능할지 기준으로 정리했습니다](/posts/exp-milk-frother-steaming/)
 - [원두 계량, 감으로 하면 안 되는 이유](/posts/edu-coffee-bean-dosing/)
+
+이 주제가 처음이라면 [홈카페 셋업, 순서를 잡으면 돈도 시간도 아낍니다](https://coffeelab.inforcore.net/posts/hub-homecafe-setup/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

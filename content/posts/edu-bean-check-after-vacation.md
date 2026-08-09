@@ -56,3 +56,6 @@ cover:
 - [늦여름 원두 택배, 문 앞 방치가 위험한 이유](/posts/edu-summer-coffee-bean-delivery-storage/)
 - [여름철 원두 보관, 실온이 위험한 이유](/posts/exp-summer-coffee-bean-storage/)
 - [원두 봉투의 아로마 밸브, 장식이 아닌 이유](/posts/edu-coffee-bag-aroma-valve/)
+
+이 주제가 처음이라면 [원두, 산지에서 잔까지 맛이 이어지는 길](https://coffeelab.inforcore.net/posts/hub-coffee-beans-roasting/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

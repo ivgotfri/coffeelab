@@ -70,3 +70,6 @@ cover:
 - [블렌딩 비율 표기, 읽는 법부터 알면 고르기 쉬워집니다](/posts/edu-blend-ratio-label/)
 - [원두 대용량 구매, 정말 알뜰할까](/posts/exp-bulk-coffee-beans-buying/)
 - [디카페인 원두, 카페인은 어떻게 빼는 걸까](/posts/edu-decaf-how-caffeine-removed/)
+
+이 주제가 처음이라면 [원두, 산지에서 잔까지 맛이 이어지는 길](https://coffeelab.inforcore.net/posts/hub-coffee-beans-roasting/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

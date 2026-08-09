@@ -47,3 +47,6 @@ cover:
 - [커피잔 재질(도자기/유리), 맛에 영향을 줄까](/posts/edu-coffee-cup-material-flavor/)
 - [라떼아트, 초보가 놓치기 쉬운 것들](/posts/exp-latte-art-beginner-mistakes/)
 - [얼음 트레이 냄새, 아이스커피 맛을 해치는 복병](/posts/exp-ice-tray-smell/)
+
+이 주제가 처음이라면 [홈카페 셋업, 순서를 잡으면 돈도 시간도 아낍니다](https://coffeelab.inforcore.net/posts/hub-homecafe-setup/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

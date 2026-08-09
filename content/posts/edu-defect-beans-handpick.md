@@ -63,3 +63,6 @@ cover:
 - [휴가 다녀온 뒤 원두 상태부터 살펴야 하는 이유](/posts/edu-bean-check-after-vacation/)
 - [원두 유통기한과 로스팅 날짜, 뭘 봐야 할까](/posts/edu-roast-date-vs-expiry/)
 - [산미와 쓴맛, 로스팅 강도가 결정하는 이유](/posts/edu-acidity-bitterness-roast/)
+
+이 주제가 처음이라면 [원두, 산지에서 잔까지 맛이 이어지는 길](https://coffeelab.inforcore.net/posts/hub-coffee-beans-roasting/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

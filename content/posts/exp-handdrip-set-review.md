@@ -58,3 +58,6 @@ description: "홈카페 입문용으로 산 핸드드립 세트를 반년 동안
 - [커피 전자저울, 1년 넘게 써보고 남긴 솔직한 후기](/posts/exp-coffee-scale-review/)
 - [드립스탠드, 꼭 필요한 도구일까](/posts/exp-drip-stand-necessary/)
 - [전동 그라인더 1년 써보고 느낀 점](/posts/exp-electric-grinder-review/)
+
+이 주제가 처음이라면 [홈카페 셋업, 순서를 잡으면 돈도 시간도 아낍니다](https://coffeelab.inforcore.net/posts/hub-homecafe-setup/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

@@ -64,3 +64,6 @@ cover:
 - [융드립과 페이퍼드립, 맛이 다른 이유](/posts/edu-nel-paper-drip-comparison/)
 
 <small>사진: <a href="https://unsplash.com/@katetrysh?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Kate Trysh</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+이 주제가 처음이라면 [추출 도구, 어디서부터 읽으면 좋을까 — 카테고리 길잡이](https://coffeelab.inforcore.net/posts/hub-brewing-tools/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

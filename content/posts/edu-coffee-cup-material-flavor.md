@@ -58,3 +58,6 @@ A. 재질보다 관리가 중요합니다. 도자기잔은 안쪽 유약이 벗�
 - [좁은 홈카페 공간, 효율적으로 꾸미는 법](/posts/howto-small-homecafe-space-setup/)
 - [얼음 트레이 냄새, 아이스커피 맛을 해치는 복병](/posts/exp-ice-tray-smell/)
 - [커피 시럽과 원액, 직접 만들어도 될까](/posts/exp-coffee-syrup-homemade/)
+
+이 주제가 처음이라면 [홈카페 셋업, 순서를 잡으면 돈도 시간도 아낍니다](https://coffeelab.inforcore.net/posts/hub-homecafe-setup/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

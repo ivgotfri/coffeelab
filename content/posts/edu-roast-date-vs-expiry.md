@@ -59,3 +59,6 @@ description: "원두 봉지의 유통기한(소비기한)과 로스팅 날짜는
 - [원두 로스팅 단계별 맛 차이, 뭘 봐야 할까](/posts/edu-roasting-taste-by-level/)
 - [늦여름 원두 택배, 문 앞 방치가 위험한 이유](/posts/edu-summer-coffee-bean-delivery-storage/)
 - [원두 디개싱, 로스팅 후 3일을 기다리는 이유](/posts/edu-coffee-degassing-resting/)
+
+이 주제가 처음이라면 [원두, 산지에서 잔까지 맛이 이어지는 길](https://coffeelab.inforcore.net/posts/hub-coffee-beans-roasting/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

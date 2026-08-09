@@ -56,3 +56,6 @@ cover:
 - [여름철 원두 보관, 실온이 위험한 이유](/posts/exp-summer-coffee-bean-storage/)
 
 <small>사진: <a href="https://unsplash.com/@battlecreekcoffeeroasters?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Battlecreek Coffee Roasters</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+이 주제가 처음이라면 [원두, 산지에서 잔까지 맛이 이어지는 길](https://coffeelab.inforcore.net/posts/hub-coffee-beans-roasting/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

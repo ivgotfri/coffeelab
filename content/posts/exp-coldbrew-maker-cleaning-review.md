@@ -58,3 +58,6 @@ cover:
 - [케멕스가 일반 드리퍼와 갈리는 지점](/posts/exp-chemex-vs-dripper-months/)
 - [에어로프레스 인버티드 방식, 뒤집는 이유가 있습니다](/posts/exp-aeropress-inverted-method/)
 - [콜드브루 메이커, 추출 시간이 왜 중요할까](/posts/edu-coldbrew-extraction-time/)
+
+이 주제가 처음이라면 [추출 도구, 어디서부터 읽으면 좋을까 — 카테고리 길잡이](https://coffeelab.inforcore.net/posts/hub-brewing-tools/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

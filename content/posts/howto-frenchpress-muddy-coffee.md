@@ -60,3 +60,6 @@ cover:
 - [프렌치프레스, 바디감이 진하게 나오는 이유](/posts/edu-frenchpress-body/)
 - [그라인더 날 종류별(코니컬/플랫) 특징 쉽게 설명](/posts/edu-grinder-burr-conical-flat/)
 - [핸드드립할 때 물맛이 쓰게 나올 때 확인해야 할 것들](/posts/howto-hand-drip-bitter-taste/)
+
+이 주제가 처음이라면 [추출 도구, 어디서부터 읽으면 좋을까 — 카테고리 길잡이](https://coffeelab.inforcore.net/posts/hub-brewing-tools/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

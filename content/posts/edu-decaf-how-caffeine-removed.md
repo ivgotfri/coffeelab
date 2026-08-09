@@ -57,3 +57,6 @@ description: "디카페인 원두는 어떻게 만드는지, 물·이산화탄�
 - [갓 볶은 원두 vs 숙성된 원두, 뭐가 나을까](/posts/edu-fresh-vs-rested-coffee-beans/)
 - [원두 로스팅 단계별 맛 차이, 뭘 봐야 할까](/posts/edu-roasting-taste-by-level/)
 - [원두 디개싱, 로스팅 후 3일을 기다리는 이유](/posts/edu-coffee-degassing-resting/)
+
+이 주제가 처음이라면 [원두, 산지에서 잔까지 맛이 이어지는 길](https://coffeelab.inforcore.net/posts/hub-coffee-beans-roasting/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->
